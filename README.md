@@ -1,7 +1,5 @@
 # Tic-Tac-Toe
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-5e1cd4f327.gif)
-
 A simple implementation of the classic Tic Tac Toe game using Pygame, where two players take turns clicking on a 3x3 grid to place their marks (X or O). The game checks for a winner or a tie after each move.
 
 ## Table of Contents
