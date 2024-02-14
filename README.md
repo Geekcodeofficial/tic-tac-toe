@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+![](https://github.com/Geekcodeofficial/tic-tac-toe)
+
 A simple implementation of the classic Tic Tac Toe game using Pygame, where two players take turns clicking on a 3x3 grid to place their marks (X or O). The game checks for a winner or a tie after each move.
 
 ## Table of Contents
